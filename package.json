@@ -1,5 +1,5 @@
 {
-  "name": "fibonacci-array",
+  "name": "fibonacci-series-array",
   "version": "1.0.0",
   "description": "A npm package to return the fibonacci series",
   "main": "index.js",
