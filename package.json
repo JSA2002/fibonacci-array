@@ -1,0 +1,25 @@
+{
+  "name": "fibonacci-array",
+  "version": "1.0.0",
+  "description": "A npm package to return the fibonacci series",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type":"module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSA2002/fibonacci-array.git"
+  },
+  "keywords": [
+    "Fibonacci",
+    "NPM",
+    "Fibonacci-series"
+  ],
+  "author": "Jeet Agrawal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSA2002/fibonacci-array/issues"
+  },
+  "homepage": "https://github.com/JSA2002/fibonacci-array#readme"
+}
